@@ -1,5 +1,5 @@
 ### Project Overview
-#### Title: IMDB Sentiment Analysis
+#### Title: Movie Reviews Sentiment Analysis
 
 #### Introduction
 This project aims to train a sentiment analysis model on an IMDB dataset with 50k reviews. The dataset can be directly imported from the datasets library in Python. This is a supervised classification problem. The model will be trained to classify the reviews as either positive or negative and then be evaluated on the test set. The benchmark accuracy for this project is between 80-85%.  
